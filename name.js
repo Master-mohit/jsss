@@ -230,3 +230,21 @@
 // }, 2000);
 // console.log("End");
 
+// ...............................Map().............................
+// const arr = [1,2,3,4,5];
+// const totl = arr.map(item => item *2);
+// console.log(totl);
+
+// ...............................Filter().............................
+// const arr = [1,2,3,4,5];
+// const totl = arr.filter(item => item % 2 === 0);
+// console.log(totl);
+
+// ...............................Reduce().............................
+// const arr = [1,2,3,4,5];
+// const totl = arr.reduce((acc, num) => acc + num, 0);
+// console.log(totl);
+
+// ...............................forEach().............................
+// const arr = [1,2,3,4,5];
+// const totl = arr.forEach(item => console.log(item * 2));
